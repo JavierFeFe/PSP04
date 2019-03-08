@@ -122,7 +122,7 @@ class Cliente {
 
 }
 ```
-*Clase cliente (Igual que la del ejercio 3.1)
+*Clase cliente (Igual que la del ejercio 3.1)*
 * Actividad 4.2. Modifica el ejercicio 2 de la unidad 3 para el servidor permita trabajar de forma concurrente con varios clientes.
 ```Java
 package psp04_02;
